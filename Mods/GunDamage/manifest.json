@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "GunDamage",
+  "author": "SKN The Lisper",
+  "version": "1.3.0",
+  "description": "Increase the gun damage, and improves the buckshot spread (so that it isn't shit)'",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://www.nexusmods.com/sonsoftheforest/mods/148"
+}

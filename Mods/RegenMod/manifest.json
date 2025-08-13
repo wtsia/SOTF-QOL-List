@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RegenMod",
+  "author": "ggmed",
+  "version": "1.0.1",
+  "description": "Regen health overtime at a configurable interval",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "Flashlight",
+  "author": "SKN The LISPer",
+  "version": "1.2.1",
+  "description": "Increases the brightness of flashlights so they're a bit better.",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "https://www.nexusmods.com/sonsoftheforest/mods/149"
+}
