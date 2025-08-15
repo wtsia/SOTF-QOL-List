@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RaceSelector",
+  "author": "AE",
+  "version": "1.0.4",
+  "description": "A mod that allows you to change your race",
+  "gameVersion": "1.0.0",
+  "type": "Mod",
+  "url": "..."
+}
